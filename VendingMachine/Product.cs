@@ -16,9 +16,7 @@ namespace VendingMachine
 
         
         public abstract void Use(); // Abstract Method, All Child Classes must implement it ...
-
-
-     
+   
         // *****************  Purchase Function ******************************
 
         public void Purchase(Product pr)    
